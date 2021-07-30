@@ -1,0 +1,5 @@
+notes,5,100
+zeszyt,2,300
+cienkopis,1,800
+kredki,6,200
+blok,2,200
