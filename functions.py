@@ -11,7 +11,7 @@ def start():
         print("Nastąpi import danych")
         data_import()
     else:
-        print("Dane nie zostały zaimportowane!")
+        print("Dane nie zostały zaimportowane.")
 
 
 def data_import():
