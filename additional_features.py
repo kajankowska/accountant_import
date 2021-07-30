@@ -16,4 +16,3 @@ def start():  # launching the program and data import
         print(f"\nZmiany zostały zapisane w pliku: {filename}.")
     else:
         print("Dane nie zostały zaimportowane.")
-
