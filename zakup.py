@@ -1,5 +1,9 @@
-from accountant_local import check_balance
-from accountant_local import product_purchase
+import sys
 
-print(check_balance())
-print(product_purchase())
+from additional_features import launching
+from accountant_classes import Warehouse
+
+object = Warehouse()
+
+print(launching())
+print(Warehouse)
