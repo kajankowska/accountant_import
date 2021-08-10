@@ -5,6 +5,5 @@ warehouse.launching()
 warehouse.check_action()
 warehouse.end()
 
+print("\nLista operacji:")
 print("\n".join(warehouse.actions))
-print(warehouse.purchase)
-print(warehouse.inputs)
